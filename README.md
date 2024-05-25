@@ -6,11 +6,11 @@ Let this file be a guide leading you through my texts:
 
 1. Alone - treatment and 2 scenes
 
-  This is the treatment of a short film plus two scenes taking place in it.
+  This is a treatment of a short film plus two scenes taking place in it.
 
 2. I Gouged My Eye Out - screen version
 
-  This is the treatment of a one-act script of a stage play I wrote in Norway for my Scriptwriting course, adapted to a short film format.
+  This is a treatment of a one-act script of a stage play I wrote in Norway for my Scriptwriting course, adapted to a short film format.
 
 3. I Gouged My Eye Out - stage version
 
@@ -19,7 +19,7 @@ Let this file be a guide leading you through my texts:
 4. The Great Awaiting - short story
 
 
-  This is the short experimental story playing with narrative and format.
+  This is a short experimental story playing with narrative and format.
 
 5. Poetry
 
@@ -28,7 +28,7 @@ Let this file be a guide leading you through my texts:
 
 6. Remedium - first draft
 
-  This is first tome of my fantasy novel. It's written in Polish and it's going through and extensive rewrite right now.
+  This is the first tome of my fantasy novel. It's written in Polish and it's going through and extensive rewrite right now.
 
   Action takes place in the land of Hekkyran where people live in fear of material, undeniably existing god toying with their lives out of seemingly pure boredom.
 
@@ -46,7 +46,7 @@ Let this file be a guide leading you through my texts:
 
 8. The Bulette Hunt - Baldur's Gate 3 story
 
-  It's a short story inspired by quite a predicament I once found myself in during my playthrough.
+  This is a short story inspired by quite a predicament I once found myself in during one of my playthroughs.
 
 
 Thank you for reading and enjoy!
